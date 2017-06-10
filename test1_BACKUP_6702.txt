@@ -1,6 +1,0 @@
-linia 2 hw2
-<<<<<<< HEAD
-modyfikacja drugiej linii hw1
-=======
-hw2 d
->>>>>>> 341c354f657efbdc00b70593eedd0f4c6a499036
