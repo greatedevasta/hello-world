@@ -1,1 +1,2 @@
 linia 2 hw2
+hw2 d
